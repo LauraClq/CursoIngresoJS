@@ -20,5 +20,13 @@ function mostrar()
 	//salida 
 	alert(mensaje);
 }
+/*function mmostar()
+{
+	var nombre;
+	var mensahje;
 
+	nombre=prompt("ing en nombre");
+	mensaje="su nombre es "+nombre;
+	alert(mensaje);
+}*/
 
